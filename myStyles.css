@@ -1,0 +1,85 @@
+body {
+  background-color: #70dbdb;
+    color: #1f7a7a;
+    font-size: 12px;
+    font-family:'Times New Roman', sans-serif;
+  }
+
+div {
+      margin: 10px;
+}
+
+h1 {
+    color: darkblue;
+    font-size: 40px;
+    margin-left: 10px;
+}
+
+h2 {
+    color: blue;
+    margin-left: 10px;
+}
+
+h3 {
+    font-size: 25px;
+    margin-left: 10px;
+}
+
+li {
+    color: maroon;
+}
+
+a {
+    color: lightBlue;
+}
+
+p {
+    color: maroon;
+    margin-left: 10px;
+}
+
+img {
+    margin: 10px;
+    margin-left: 20px;
+}
+
+.image {
+    width:50%;
+    height:50%;
+}
+
+.navi-bar {
+    background-color: #0f3d3d;
+    overflow: hidden;
+}
+
+.navi-bar a {
+    float: left;
+    text-align: center;
+    padding: 14px 16px;
+    font-size: 17px;
+}
+
+.navi-bar a:hover {
+    background-color: #adebeb;
+}
+
+#name-title {
+    background-color: #00bfff;
+}
+
+#bio {
+    font-size: 12px;
+    border-radius: 3px;
+    border-style: dotted;
+    background-color: #4dd2ff;
+}
+
+#fun-facts {
+
+}
+
+#pictures {
+    background-color: #0080ff;
+    color: #cce6ff;
+}
